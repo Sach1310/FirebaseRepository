@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_1be57e8ae179ba6ecc77a133901f209793f1a7f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.github.moondroid.coverflow/library/1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42dd7a8aa383b6967e640be8149e11b8ada22944">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.github.moondroid.coverflow-library-1.0_900c7a6d42f9a5d05c787e2fb734a5f76c85fd96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="672cceae26e9a8fcbd8e0eefe5fc351c50d2488a">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-25.0.0_c5b8919403c9a94c166589d72f9f60929cee67cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/libs/httpcore-4.3-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a293723fe90abe781acb4efaacaecdf2108f346d">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/httpcore-4.3-beta1_92234c7e2829fa6f832b19866a7b0bebf12ea7b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a1d5615987b3a29e38efac4db3b3e446f05df48e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/libs/retrofit-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta4_d6af32595f245031a0445ef28a76f2a8d8eb3757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_8c5532eb5849e81b68b7cbfe3dd35f36233f63e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_4c211f67b2a4075fe9f40ad9de342f8cf1c02e04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.2.0/baseLibrary-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1d81f36ef9a5803689b3e888eb93a8759a17be0">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/baseLibrary-2.2.0_78d10c59095dc704044b039733d8808f01f081a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/Extra/android-sdks-new/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_cbbac3cdf31e44aa5c395797bb9ef3d70da0ff66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_e5c43f01eaf0e58d9c122f9fd40d02ff1fe09e67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_8d401b1ebffb99eb22f081bdc08a41600cbd722b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_34783d36861f9977fb73428134fa461a93d21ef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.0_96f88395d3873ed3e64492567713bfb90862740a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_d6e9197b9977b9a2106aa7ba15f3a421e6d51822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.0_1c84e7727bcf38e74edcf1e24dc0e6bbaaa9c5fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/libs/httpmime-4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b0002c5fb66867ca919be0fbd86de1cfaf76da7">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/httpmime-4.3_0579c637397c33bfc1d710c32a59ebb5e435262a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/libs/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_642f0a8151bedb11644286f716e7bf2b8582e014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/libs/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/okio-1.6.0_97fadf307a1c69cd94bbdf67dce1a430c988c636.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_d49ccee181a443eb749e8bc0f90dd8cc0da2c7b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.intuit.sdp/sdp-android/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b63d873d0f3394ace8b6a7d9aa194816c6253b4">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.intuit.sdp-sdp-android-1.0.3_5bc8a0c98659f442d7de67b2ee64ade07ebe0e60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/libs/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_6209227d2f29bb111ea3100ff45dc58a52f1295a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_09dec065be5e355d669741e5ac8c45e0021f6d06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_ed352e3779ddd3785b0b9b38de5b96d3061ccb18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.github.rey5137/material/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dde1ea8573633db3da4e8c42d541bfa7d03d6720">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.github.rey5137-material-1.2.2_74f3d576190f99e25e471fe848560129b00afcc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_4d5b5004359b809002618f882d2bb853d887e27b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/libs/converter-gson-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta4_db0b0268a9592ac4b6f64aaa70e2f6c295a97169.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/libs/gson-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="126d1ea978aa87b87c90f32beac4dc966a318982">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/gson-2.2.3_cdddf445a73b990d06112b10ae2fbee6f00db79c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_cc0396b350f8780e98d63015d4252cac4afb9798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.0_084aa1836ca2471acdfeed09d3db7323bd258948.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_3ca1f657e5bde8421d9470dc122cde99f7221eca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_bf682f554a657cb7639004e1cb3f8febf647bf56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_965cf1abf5e8ba8a2d88f427d4d1b714ff221a03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.2.1_1c5a247b2372aff79a3b7537e03bd816bf1dbfcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.0_be3cd387a18b2d791773c249a2700c7bc62c5d25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.0_4129846f18df3c9ddbb7d902af573220b6a9e87d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.0_fec1e26827b515cb27839d13605977f838d7eef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.0_e147140ccc021be78b59f4818d4f02e133356a3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_38d71ba7ec4e4b20683746542ce124291077ee76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/FireBaseStoragedemo/frisson/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="902f3e59c87450fd1e8eacdc379ecf4c8c7d409f">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/FireBaseStoragedemo-frisson-unspecified_3fea3656c8b94a23ed694e02c33011720e055d41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/Yudiz/Documents/Payal/AllProjects/extra/projects/FireBaseStoragedemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_e005dc7c393384b5468e97ca8f843e2269386f46.jar" />
+    </item>
+
+</items>
